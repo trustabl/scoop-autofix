@@ -1,0 +1,23 @@
+{
+  "version": "0.1.0",
+  "description": "Behavioral attestation and AI-powered fixes for Python agent tools",
+  "homepage": "https://github.com/trustabl/autofix",
+  "license": "Proprietary",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/trustabl/autofix/releases/download/v0.1.0/autofix_0.1.0_windows_amd64.zip",
+      "hash": "d4960411fd93e839fb4782599e52b4fbaa07a2251aaa948142d5a629b147e906"
+    }
+  },
+  "bin": "autofix.exe",
+  "checkver": {
+    "github": "https://github.com/trustabl/autofix"
+  },
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://github.com/trustabl/autofix/releases/download/v$version/autofix_$version_windows_amd64.zip"
+      }
+    }
+  }
+}
