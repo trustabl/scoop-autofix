@@ -1,12 +1,12 @@
 {
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Behavioral attestation and AI-powered fixes for agent tools",
   "homepage": "https://github.com/trustabl/autofix",
   "license": "Proprietary",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/trustabl/autofix/releases/download/v0.1.0/autofix_0.1.0_windows_amd64.zip",
-      "hash": "d4960411fd93e839fb4782599e52b4fbaa07a2251aaa948142d5a629b147e906"
+      "url": "https://github.com/trustabl/autofix/releases/download/v0.2.0/autofix_0.2.0_windows_amd64.zip",
+      "hash": "54966a45b7df8b3ed639ce9a8b8ab5beefcd9258623261ab832d7ee1831bc5f2"
     }
   },
   "bin": "autofix.exe",
