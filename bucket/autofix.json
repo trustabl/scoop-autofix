@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "description": "Behavioral attestation and AI-powered fixes for Python agent tools",
+  "description": "Behavioral attestation and AI-powered fixes for agent tools",
   "homepage": "https://github.com/trustabl/autofix",
   "license": "Proprietary",
   "architecture": {
