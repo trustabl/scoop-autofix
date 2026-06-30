@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/trustabl/autofix/releases/download/v0.2.0/autofix_0.2.0_windows_amd64.zip",
-      "hash": "20418ebd24e59dae73bc6fe01d8b107111ee756587cad02bb8b8d6759b6e4823"
+      "hash": "efe27ab16610d0d19e3ce0feb5025c6d4158c04ace3d0f823fd42042d7653a1c"
     }
   },
   "bin": "autofix.exe",
