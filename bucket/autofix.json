@@ -1,0 +1,14 @@
+{
+    "version": "0.2.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/trustabl/trustabl-probe/releases/download/v0.2.2/autofix_0.2.2_windows_amd64.zip",
+            "bin": [
+                "autofix.exe"
+            ],
+            "hash": "a53f28a421b47cacb140530bdb4303e20b9768643359e71357b21da824cc8b9a"
+        }
+    },
+    "homepage": "https://github.com/trustabl/trustabl-probe",
+    "description": "Behavioral attestation and AI-powered fixes for agent tools"
+}
