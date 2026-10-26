@@ -1,12 +1,12 @@
 {
-    "version": "0.2.4",
+    "version": "0.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/trustabl/agent-network-access-probe/releases/download/v0.2.4/autofix_0.2.4_windows_amd64.zip",
+            "url": "https://github.com/trustabl/agent-network-access-probe/releases/download/v0.3.0/autofix_0.3.0_windows_amd64.zip",
             "bin": [
                 "autofix.exe"
             ],
-            "hash": "71fe2ee3e42dae7ff6f2887585f3bfeea5b4cb953bb2bd6b3a76341883d118c4"
+            "hash": "e81328f2b110e486dd1cd257b984c68951ae068e184f366f3ff4c9a976df0a75"
         }
     },
     "homepage": "https://github.com/trustabl/agent-network-access-probe",
